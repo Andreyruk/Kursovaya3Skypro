@@ -58,6 +58,11 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.3</version>
 		</dependency>
+		<dependency>
+		<groupId>io.jsondb</groupId>
+		<artifactId>jsondb-core</artifactId>
+		<version>1.0.115-j11</version>
+		</dependency>
 	</dependencies>
 
 	<build>
